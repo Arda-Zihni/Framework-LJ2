@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+:root {
+    --color-accent: #1e40af;
+    --color-accent-hover: #1e3a8a;
+}
+
 body {
     margin: 0;
     font-family: "Segoe UI", Arial, sans-serif;
